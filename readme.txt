@@ -1,0 +1,1 @@
+One CubeSat is composed of one top piece, one bottom piece, one side with hole, two sides with windows, one side base, and the rails. The model is based on one designed by based on TJEmsley. TJEmsley can be found on thingiverse here https://www.thingiverse.com/TJEmsley/designs
